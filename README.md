@@ -61,7 +61,7 @@ A modern full-stack **Global Stock Market Web Application** designed to track, a
 
 ---
 
-<img width="1200" height="900" alt="finfolio_x7zj0lqd" src="https://github.com/user-attachments/assets/75f02549-ee92-4048-942a-bb7fe78e7d48" />
+<img width="1200" height="500" alt="finfolio_x7zj0lqd" src="https://github.com/user-attachments/assets/75f02549-ee92-4048-942a-bb7fe78e7d48" />
 
 
 # 📂 Project Structure
